@@ -17,7 +17,7 @@ This is a program which finds the last occurence of **k** in a sorted array.
 
 *Output:*  The index of the last occurrence of k in the sorted array you read in
 
-**=================================================================================**
+**===============================================================================**
 
 ## Select
 
